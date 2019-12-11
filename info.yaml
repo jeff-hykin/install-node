@@ -1,0 +1,5 @@
+(using_atk_version): 1.0
+(installer):
+    (dependencies): {}
+    (commands):
+        (run): ruby run.rb
